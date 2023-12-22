@@ -1,0 +1,130 @@
+.hide-on-mobile { display: inline; }
+@media only screen
+    and (min-device-width : 320px)
+    and (max-device-width : 950px){ .hide-on-mobile { display: none; }
+}
+
+.show-on-mobile { display: none; }
+@media only screen
+    and (min-device-width : 320px)
+    and (max-device-width : 950px){ .show-on-mobile { display: inline; }
+}
+
+@media(max-width: 425px){
+    .freme {
+        width: 970px;
+    }
+    .frama {
+        margin-left: 150%;
+    }
+    .frame {
+        margin-left: 75%;
+    }
+    .header {
+        height: 0px;
+    }
+    .maket {
+        margin-top: 0%;
+        margin-left: 100px;
+    }
+    .hoik {
+        display: flex;
+        width: 1550px;
+        height: 40px;
+    }
+    .flex {
+        margin-left: -20px;
+    }
+    .flex1 {
+        margin-left: -20px;
+    }
+    .flex2 {
+        margin-left: -20px;
+    }
+    .flex3 {
+        margin-left: -20px;
+    }
+    .flex4 {
+        margin-left: -20px;
+    }
+    .funct {
+        width: 1650px
+    }
+    .homde {
+        width: 1650px;
+    }
+    .joi1 {
+        margin-left: 950px;
+    }
+    .zag1 {
+        margin-left: 200px;
+    }
+    .txt1 {
+        margin-left: 200px;
+    }
+    .tab {
+        width: 1590px;
+    }
+    .tab1 {
+        width: 1590px;
+    }
+    .tab2 {
+        width: 1590px;
+    }
+    .tab3 {
+        width: 1590px;
+    }
+    .tab4 {
+        width: 1590px;
+    }
+    .tab5 {
+        width: 1590px;
+    }
+    .tab6 {
+        width: 1590px;
+    }
+    .zag4 {
+        margin-top: 40px;
+        margin-left: 200px;
+    }
+    .joi4 {
+        margin-top: 40%;
+        margin-left: 200px;
+    }
+    .txt4 {
+        margin-left: 200px;
+    }
+    .zapol {
+        margin-left: 200px;
+    }
+    .zapol1 {
+        margin-top: -165%;
+        margin-left: 900px;
+    }
+    .zapol2 {
+        margin-top: 30%;
+        margin-left: 900px;
+    }
+    .purp {
+        margin-left: 170px;
+    }
+    .purp1 {
+        margin-left: 870px;
+    }
+    .purp2 {
+        margin-left: 870px;
+    }
+    .dod {
+        margin-top: 20%;
+        margin-left: 185%;
+    }
+    .befor {
+        margin-left: 142%;
+    }
+    .with {
+        margin-left: 720px
+    }
+    .bluer {
+        margin-left: 510px;
+    }
+}
